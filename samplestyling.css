@@ -1,0 +1,21 @@
+	h1 {
+		font-family: Arial; color: white; font-size: 40px; text-shadow: 2px 2px 2px purple; text-decoration: underline; border-style: ridge; border-width: 12px; border-bottom-color: palevioletred; border-right-color: palevioletred; border-top-color: white; border-left-color: white; height: 	55px; margin: ;
+	}
+	table {
+		font-family: Arial;
+	}
+.A {
+	 font-family: Arial; color: white; text-decoration: underline;
+}
+.Description {
+	font-family: Arial; color: white; text-shadow: 2px 2px 2px palevioletred;
+} 
+tr, th, td {
+	border-color: 	darkgrey	;
+	border-width: 5px;
+	border-style: 	double;
+	padding: 	5px;
+}
+p {
+	font-family: 	Arial; color: white; font-size: 23px; text-shadow: 2px 2px 2px purple; margin: auto; 
+}
